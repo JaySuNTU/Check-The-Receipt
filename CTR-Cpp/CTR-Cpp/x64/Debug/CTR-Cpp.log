@@ -1,0 +1,4 @@
+﻿  CTRCpp.cpp
+d:\sideproject\check-the-receipt\ctr-cpp\ctr-cpp\ctrcpp.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  CTR-Cpp.vcxproj -> D:\SideProject\Check-The-Receipt\CTR-Cpp\x64\Debug\CTR-Cpp.exe
+  CTR-Cpp.vcxproj -> D:\SideProject\Check-The-Receipt\CTR-Cpp\x64\Debug\CTR-Cpp.pdb (Partial PDB)

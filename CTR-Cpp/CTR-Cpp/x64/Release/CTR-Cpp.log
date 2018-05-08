@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+stdafx.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\sideproject\check-the-receipt\ctr-cpp\ctr-cpp\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\sideproject\check-the-receipt\ctr-cpp\ctr-cpp\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  CTRCpp.cpp
+CTRCpp.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+LINK : fatal error LNK1181: 無法開啟輸入檔 'opencv_world330.lib'

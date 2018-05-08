@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+d:\sideproject\check-the-receipt\ctr-cpp\ctr-cpp\stdafx.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\sideproject\check-the-receipt\ctr-cpp\ctr-cpp\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\sideproject\check-the-receipt\ctr-cpp\ctr-cpp\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  CTRCpp.cpp
+d:\sideproject\check-the-receipt\ctr-cpp\ctr-cpp\ctrcpp.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  CTR-Cpp.vcxproj -> D:\SideProject\Check-The-Receipt\CTR-Cpp\Debug\CTR-Cpp.exe
+  CTR-Cpp.vcxproj -> D:\SideProject\Check-The-Receipt\CTR-Cpp\Debug\CTR-Cpp.pdb (Partial PDB)
